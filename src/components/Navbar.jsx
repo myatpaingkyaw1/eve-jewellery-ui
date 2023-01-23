@@ -9,7 +9,7 @@ const Container = styled.div`
 const Wrapper = styled.div`
   padding: 10px 20px;
   display: flex;
-  align-item: center;
+  align-items: center;
   justify-content: space-between;
 `;
 
@@ -27,7 +27,7 @@ const Language = styled.span`
 const SearchContainer = styled.div`
   border: 0.5px solid lightgray;
   display: flex;
-  align-item: center;
+  align-items: center;
   margin-left: 25px;
   padding: 5px;
 `;
@@ -48,7 +48,7 @@ const Logo = styled.h1`
 const Right = styled.div`
   flex: 1;
   display: flex;
-  align-item: center;
+  align-items: center;
   justify-content: flex-end;
 `;
 
