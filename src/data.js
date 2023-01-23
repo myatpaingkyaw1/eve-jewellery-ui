@@ -23,3 +23,65 @@ export const sliderItems = [
         bg: "fbf0f4",
     },
 ];
+
+export const categories = [
+    {
+        id: 1,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+        title: "SUMMER SALE",
+    },
+
+    {
+        id: 2,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+        title: "WINTER SALE",
+    },
+
+    {
+        id: 3,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+        title: "POPULAR SALE",
+    },
+];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 2,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 3,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 4,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 5,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 6,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 7,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+
+    {
+        id: 8,
+        img: "https://img.freepik.com/free-photo/charming-model-with-dark-hair-shows-rich-golden-earrings-necklace-ring_8353-5040.jpg?w=740&t=st=1674397336~exp=1674397936~hmac=7478eebc0d2535accd248a2fdafc6e1acc024a69c5fb7a6221d569077d240091",
+    },
+];
